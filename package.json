@@ -1,0 +1,14 @@
+{
+  "name": "daily-hadith-generator",
+  "version": "1.0.0",
+  "description": "Generate Hadith for daily reminder",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "author": "aizadRamli",
+  "license": "ISC"
+}
